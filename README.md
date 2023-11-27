@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Suriyahrk
-- 👀 I’m interested in high energy physics
-- 🌱 I’m currently learning Bachelor of Science(Physics)
-- 💞️ I’m looking to collaborate on High energy packages
-- 📫 How to reach me suriyahrk@gmail.com
+- 👀 I’m interested in High-energy physics
+- 🌱 I’m currently studying for a Bachelor of Science (Physics) at the Indian Institute of Science
+- 💞️ I’m looking to collaborate on High-energy packages and Numerical Relativity
+- 📫 How to reach me -> suriyahrk@gmail.com
 
 <!---
 Suriyahrk/Suriyahrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
